@@ -3,7 +3,7 @@
 ### Russell Poldrack
 ### Stanford University
 
-[Main text]
+[Main text](https://statsthinking21.github.io/statsthinking21-core-site/)
 
 [R companion]
 
