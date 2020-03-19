@@ -5,7 +5,7 @@
 
 [Main text](https://statsthinking21.github.io/statsthinking21-core-site/)
 
-[R companion]
+[R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
 
 Python companion (coming soon!)
 
