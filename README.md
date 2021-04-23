@@ -11,7 +11,7 @@
 
 - [Github repo](https://github.com/statsthinking21/statsthinking21-R)
 
-Python companion (coming soon!)
+[Python companion](https://statsthinking21.github.io/statsthinking21-python/)
 
 - [Github repo](https://github.com/statsthinking21/statsthinking21-python)
 
