@@ -7,6 +7,10 @@
 
 - [Github repo](https://github.com/statsthinking21/statsthinking21-core)
 
+[Core statistical text (Spanish translation)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/) 
+
+- [Github repo](https://github.com/statsthinking21/statsthinking21-core-spanish)
+
 [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
 
 - [Github repo](https://github.com/statsthinking21/statsthinking21-R)
