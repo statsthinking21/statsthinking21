@@ -3,20 +3,11 @@
 ### Russell Poldrack
 ### Stanford University
 
-[Core statistical text](https://statsthinking21.github.io/statsthinking21-core-site/) 
+A commercially published version of this book (with an expanded version of Chapter 17) is now available from Princeton University Press: [Statistical Thinking: Analyzing Data in an Uncertain World](https://press.princeton.edu/books/hardcover/9780691250939/statistical-thinking)
 
-- [Github repo](https://github.com/statsthinking21/statsthinking21-core)
+Code to generate all of the figures and tables from the commercial version of the book is available in [Python](https://statsthinking21.github.io/statsthinking21-figures-python/intro.html) and [R](https://statsthinking21.github.io/statsthinking21-figures-R/intro.html).
 
-[Core statistical text (Spanish translation)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/) 
+The open source version of the book is available in [English](https://statsthinking21.github.io/statsthinking21-core-site/) and [Spanish](https://statsthinking21.github.io/statsthinking21-core-spanish-site/).
 
-- [Github repo](https://github.com/statsthinking21/statsthinking21-core-spanish)
-
-[R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
-
-- [Github repo](https://github.com/statsthinking21/statsthinking21-R)
-
-[Python companion](https://statsthinking21.github.io/statsthinking21-python/)
-
-- [Github repo](https://github.com/statsthinking21/statsthinking21-python)
-
+Companions to the book for statistical programming are available for [Python](https://statsthinking21.github.io/statsthinking21-python/) and [R](https://statsthinking21.github.io/statsthinking21-R-site/)
 
